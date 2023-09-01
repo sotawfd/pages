@@ -122,5 +122,5 @@ docs/index.md から docs/fuga/hoge.md にリンクを貼る場合
 
 
 
-![ほげ](./hoge.jpg)
+![ほげ](./hoge.png)
 
